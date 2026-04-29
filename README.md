@@ -10,4 +10,4 @@ calculation.
 - Robust input validation.
 
 ## Screenshot
-![Festival Planner UI](screenshot.png)
+![Festival Planner UI](Screenshot.png)
